@@ -1,0 +1,2 @@
+java -jar c:\closure-compiler\compiler.jar --language_in ECMASCRIPT5 --js js\gcal-events.js --js_output_file js\gcal-events.min.js
+java -jar c:\closure-compiler\compiler.jar --language_in ECMASCRIPT5 --js js\admin.js --js_output_file js\admin.min.js

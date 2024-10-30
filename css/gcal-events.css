@@ -1,0 +1,62 @@
+.textbox{
+    background-color:inherit;
+}
+.bar{
+    margin-top:10px; 
+    font-weight:bold;
+    padding:3px;
+}
+.when-div span{
+    display:inline-block;
+    margin-right:15px;
+}
+.where-div{
+    clear:both;
+}
+.gcal-events div{
+    padding-left:15px;
+
+}
+.gcal-events{
+    border:1px solid silver; 
+    margin-bottom: 10px;
+}
+.gcal-widget-div{
+    white-space:nowrap;
+}
+.gcal-legend{
+    line-height: 25px;
+}
+.gcal-legend span{
+    display:inline-block;
+    vertical-align:middle;
+}
+.gcal-legend-color{
+    width :25px;
+    height:10px;
+}
+.gcal-legend-name{
+    font-weight:bold;
+    padding:5px;
+    margin-right:10px;
+}
+.gcal-legend{
+    margin-top: -10px;
+    line-height:25px;
+}
+.th1, .td1{
+    width:175px;
+}
+
+.th2, .td2{
+    width:100px;
+}
+.th3, .td3{
+    width:400px;
+}
+.th4, .td4{
+    width:150px;
+}
+.th1, .th2, th3, th4{
+    text-align:center;
+}
